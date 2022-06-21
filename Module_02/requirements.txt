@@ -1,0 +1,7 @@
+matplotlib==3.5.2
+mlflow==1.26.1
+numpy==1.22.4
+hyperopt==0.2.7
+pandas==1.4.2
+scikit-learn==1.1.1
+setuptools==49.1.0
